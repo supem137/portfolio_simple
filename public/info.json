@@ -1,0 +1,53 @@
+{
+  "about": {
+    "name": "Supem Maduwantha.",
+    "role": "Front End Developer",
+    "description": "Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.",
+    "resume": "https://example.com",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/supem-m-99aba8234/",
+      "github": "https://github.com/supem137"
+    }
+  },
+  "projects": [
+    {
+      "name": "Weather Application",
+      "description": "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
+      "stack": ["SASS", "TypeScript", "React"],
+      "sourceCode": "https://github.com/supem137/weather-app_ReactJS",
+      "livePreview": "https://weather-app-reactjs.pages.dev/"
+    },
+    {
+      "name": "Expense Tracking App",
+      "description": "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
+      "stack": ["SASS", "TypeScript", "React"],
+      "sourceCode": "https://github.com/supem137/expense-traking-app_ReactJS",
+      "livePreview": "https://expense-traking-app-reactjs.pages.dev/"
+    },
+    {
+      "name": "Countries Guide",
+      "description": "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
+      "stack": ["SASS", "TypeScript", "React"],
+      "sourceCode": "https://github.com/supem137/Countries_Guide_Reactjs",
+      "livePreview": "https://countries-guide-reactjs.pages.dev/"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "C#",
+    "React",
+    "Redux",
+    "Tailwind",
+    "Material UI",
+    "Git",
+    "Firebase",
+    "Mongodb",
+    "SQL"
+  ],
+  "contact": {
+    "email": "mailto:supem.maduwantha2014@gmail.com"
+  }
+}
