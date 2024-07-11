@@ -13,21 +13,21 @@
     {
       "name": "Weather Application",
       "description": "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-      "stack": ["SASS", "TypeScript", "React"],
+      "stack": ["React", "Node", "Tailwind"],
       "sourceCode": "https://github.com/supem137/weather-app_ReactJS",
       "livePreview": "https://weather-app-reactjs.pages.dev/"
     },
     {
       "name": "Expense Tracking App",
       "description": "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-      "stack": ["SASS", "TypeScript", "React"],
+      "stack": ["React", "JavaScript", "MUI"],
       "sourceCode": "https://github.com/supem137/expense-traking-app_ReactJS",
       "livePreview": "https://expense-traking-app-reactjs.pages.dev/"
     },
     {
       "name": "Countries Guide",
       "description": "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-      "stack": ["SASS", "TypeScript", "React"],
+      "stack": ["React", "JavaScript", "Css"],
       "sourceCode": "https://github.com/supem137/Countries_Guide_Reactjs",
       "livePreview": "https://countries-guide-reactjs.pages.dev/"
     }
